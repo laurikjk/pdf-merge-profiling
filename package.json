@@ -1,0 +1,15 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "merger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "v8-profiler-node8": "^6.4.0"
+  }
+}

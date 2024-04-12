@@ -1,0 +1,4 @@
+*.pdf
+profile.cpuprofile
+node_modules
+
